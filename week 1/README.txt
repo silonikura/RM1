@@ -1,0 +1,4 @@
+Week 1 to do
+READ MON: NOBA: Why science
+READ THU: SAYLOR CH 5
+LAB 1 IN CLASS

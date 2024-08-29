@@ -1,0 +1,24 @@
+RM1 Week 1 — Description: Measuring the world and graphs
+
+Population and Sample
+
+Population
+
+What do we measure? (variables, scales of measurement, and constructs)
+variables (categorical, quantitative)
+Characteristics, attributes, or conditions
+that can take on different values (vary) or change
+and that can be measured in our sample
+
+categorical
+	⁃	nominal, ordinal
+	⁃	nominal: labeled and categorized qualities of a variable with no quantitative distinctions (ex. color: blue, green red)
+	⁃	ordinal: Categories organized in an ordered sequence in terms of size or magnitude (ex. cool, warm, hot)
+	⁃	indivisible categories
+quantitative
+	⁃	interval, ratio
+	⁃	interval: Ordered categories that are all intervals of exactly the same size, arbitrary zero (zero degrees F provides indication of low temperature, but not an absence of temperature)
+	⁃	ratio: An interval scale, but now has an absolute zero point, which indicates an absence of the variable. (ex. zero on a scale indicates an absence of weight)
+Construct: 
+an abstract attribute or characteristic that cannot be directly observed or measured but is thought to explain or predict behavior
+Operational Defnition — A description of the construct of interest in terms of a specific procedure (set of operations) for measuring observable behavior (variable/s) (e.g. Happiness = Number of smiles per day)

@@ -1,0 +1,29 @@
+﻿Participant_ID,Race_ethnicity,Gender,Age,Birthplace,Eyecolor,handspan_cm,Usshoesize,Breakfast,siblingcount,distancefromhome,Election,Schoolyear,Major,Currentfunds,InterestinClass,Classworried
+22,Colombian-American,Woman,21,CT,Brown,7.5,7.5,Yes,1,3.8,Yes,Junior (3rd year),Psychology,500,4,4
+11,Latina ,Woman,20,N/A,Brown,7.5,8,No,2,6.9,No,Junior (3rd year),Psychology,5000,2,4
+10,latina and white,Woman,21,NY,Brown,16,7.5,Yes,2,7,Yes,Junior (3rd year),Psychology,1900,3,4
+13,"white, latina/hispanic",Woman,20,NY,Brown,22,13,Yes,1,8,No,Junior (3rd year),Psychology,4000,5,2
+15,White and Hispanic,Man,21,NY,Blue,16.5,11,No,2,9,Yes,Sophomore (2nd year),Psychology,15,3,2
+8,guyanese and polish,Woman,20,NY,Brown,18.5,7,No,1,16,No,Junior (3rd year),Psychology,2100,2,3
+18,black/ African American ,Non-Binary,20,NY,Brown,9.5,7,No,2,18,No,Junior (3rd year),Psychology,7,3,4
+2,White (European) ,Man,20,N/A,Brown,14.5,11,No,1,23,No,Junior (3rd year),Psychology,0,5,3
+4,white,Woman,19,CT,Blue,12,8.5,Yes,0,26,No,Sophomore (2nd year),Psychology,0,2,3
+9,White,Man,21,NY,changes,14,10.5,No,2,27,No,Junior (3rd year),Psychology,3700,3,2
+6,"North African, Moroccan ",Woman,19,TN,Brown,12.5,9,No,2,27.9,No,Sophomore (2nd year),Psychology,4000,3,3
+3,Hispanic,Woman,35,NY,Brown,20,6,No,5,30,No,Freshman (1st year),Psychology,2100,5,4
+1,"Mixed, Italian,Spaniard, Puerto Rican ",Woman,21,NY,Brown,17.5,9,Yes,1,30,Yes,Junior (3rd year),Psychology,3045,3,2
+21,white/latino,Woman,20,NY,Hazel,10.5,10,Yes,1,30,No,Junior (3rd year),Psychology,19000,5,3
+12,White,Woman,20,N/A,Brown,6,9,Yes,0,39.5,No,Junior (3rd year),Psychology,200,5,3
+16,White. Irish and Czech,Man,21,NY,Hazel,11,9,No,2,59,No,Junior (3rd year),Psychology,5100,4,4
+5,White,Woman,20,NY,Brown,17,6.5,Yes,2,64,No,Junior (3rd year),Psychology,0,3,3
+20,black ,Non-Binary,21,NY,Brown,8.5,10,No,3,99.7,Yes,Senior (4th year),Psychology,13000,4,5
+14,White,Man,19,NY,Blue,6,14,No,2,288,No,Sophomore (2nd year),Psychology,5400,2,4
+17,White,Woman,19,NY,Brown,37,9,Yes,1,300,No,Sophomore (2nd year),Psychology,10000,5,4
+7,,Non-Binary,19,OH,Blue,21.5,8.5,Yes,0,303,No,Junior (3rd year),Psychology,0,3,4
+19,asian,Woman,19,TX,Brown,8.4,7,No,1,1686.3,No,Sophomore (2nd year),Psychology,2000,5,3
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,MEAN DISTANCE,141.0045455,,,mean,3684.863636,,
+,,,,,,,,,MEDIAN,28.95,,,median,2100,,
+,,,,,,,,,MODE,30,,,mode,0,,
+,,,,,,,,,STDEV,358.3212372,,,stdev,4796.484122,,

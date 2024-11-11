@@ -1,0 +1,78 @@
+ResponseId,neuroticism_1,neuroticism_2,neuroticism_3,neuroticism_4,neuroticism_5,neuroticism_6,neuroticism_7,neuroticism_8,SWLS_1,SWLS_2,SWLS_3,SWLS_4,SWLS_5,GBS_1,GBS_2,GBS_3,GBS_4,GBS_5,GBS_6,GBS_7,GBS_8,GBS_9,GBS_10,GBS_11,GBS_12,RSE_1,RSE_2,RSE_3,RSE_4,RSE_5,RSE_6,RSE_7,RSE_8,RSE_9,RSE_10,gender,age,race,race_7_TEXT
+R_10xbreg3Uc76GqV,4,2,4,5,2,4,2,5,4,5,5,4,1,4,3,5,4,4,2,7,4,5,6,4,1,3,5,3,4,2,3,2,4,3,3,2,20,6,
+R_1BSgWrcoVYAQ6Mr,5,2,5,5,1,5,2,5,1,3,3,2,1,2,5,6,2,3,1,7,5,7,7,6,1,2,1,5,4,5,5,1,4,5,5,1,21,7,White & Hispanic 
+R_1lAeqjh8Y6SCBcK,4,5,1,5,5,3,5,4,6,6,6,6,5,7,7,7,7,7,1,1,1,1,1,1,1,4,5,1,5,5,5,5,4,1,1,1,21,1,
+R_1MLsgFh07tEE93L,4,4,4,4,3,4,4,4,2,2,2,2,1,3,4,6,4,5,3,5,2,4,4,5,6,5,4,3,5,4,3,4,5,3,1,2,20,5,
+R_1MMXNB82nOyhwUb,1,4,2,3,4,2,3,3,4,4,5,4,4,6,6,6,6,6,5,2,1,2,1,2,1,4,4,1,4,3,5,3,2,1,1,2,22,4,
+R_1opDRT2vpkT4UqR,3,2,2,4,4,3,2,4,2,3,4,2,2,6,6,6,5,6,6,2,2,2,3,2,2,4,4,2,4,3,4,4,2,4,2,2,20,4,
+R_1PUgd1KFlR4FXZT,4,4,4,5,3,4,3,4,2,2,2,2,1,5,7,6,5,5,6,2,4,2,3,1,2,4,5,2,4,3,3,2,4,2,4,2,20,4,
+R_1qe0EzSgPXba5X4,3,4,4,4,4,4,4,4,5,6,6,5,5,5,6,6,5,6,6,4,4,3,4,3,3,4,4,3,4,2,4,3,3,2,4,1,20,5,
+R_1rjnjvvZCl4CTVK,3,3,5,5,2,3,4,3,3,2,6,5,2,5,5,4,6,6,7,3,4,1,2,7,2,3,5,4,3,3,3,2,3,4,3,2,20,4,
+R_25M9zVV3WP9Axmy,3,3,3,3,3,3,3,3,4,4,4,4,4,4,4,5,4,5,4,4,4,4,4,4,4,4,3,3,4,4,4,3,3,3,3,1,20,4,
+R_2cCrmWXPTB9fooy,3,4,4,5,4,4,4,3,1,2,4,1,1,4,7,6,6,7,6,1,2,1,2,2,1,3,5,3,5,4,3,3,1,4,5,2,20,1,
+R_2EhF3O4ff96zbwx,3,3,1,3,3,3,3,4,2,3,5,5,5,6,7,7,5,6,6,1,1,1,1,1,1,4,4,2,3,1,4,3,3,2,4,2,20,1,
+R_2Ei1GiGKSj9654P,4,2,4,5,2,5,4,5,4,6,5,6,3,5,3,6,3,4,5,5,4,5,5,5,3,4,4,4,3,3,3,4,3,5,2,1,20,5,
+R_2eVYJrrhwMAYLnS,1,4,4,5,2,5,5,5,6,6,6,6,2,6,6,6,6,7,6,1,1,1,1,1,1,5,5,3,5,1,4,4,5,4,4,2,21,1,
+R_2fvUNN99GtgVxoS,3,3,3,4,3,3,3,2,6,6,6,4,6,6,6,5,4,4,6,3,2,2,3,4,2,5,4,2,4,1,5,5,3,3,2,2,22,4,
+R_2qCVnCWGdtDoZmv,4,3,5,5,2,5,4,4,5,7,5,7,3,4,5,5,6,4,5,5,4,3,5,5,5,4,4,2,4,2,4,3,5,4,4,2,20,5,
+R_2qfNXmNwTY4I7t6,4,4,2,4,5,4,5,3,2,6,5,2,6,6,5,6,5,6,5,3,2,1,2,1,2,1,5,1,5,1,5,4,1,1,1,2,25,4,
+R_2R8KHao9RDeVfBh,2,5,4,2,4,4,4,5,5,5,5,5,5,5,6,4,5,5,5,5,3,3,5,3,4,5,5,2,4,2,5,4,2,2,2,2,23,5,
+R_2tgLyPvMs4dWlX8,4,2,3,4,2,5,2,4,5,3,4,4,5,5,6,6,6,6,6,3,4,2,3,5,5,3,4,3,3,3,3,4,4,4,4,2,20,4,
+R_2upqXFjfYwlH4Bg,4,1,5,5,1,4,4,4,3,3,6,3,6,6,6,6,6,6,5,2,5,3,5,3,1,5,4,2,4,2,4,3,4,4,5,2,20,4,
+R_2uR1iHbcgJ5vd9p,4,3,3,4,3,4,3,4,4,4,3,5,4,6,5,6,5,6,6,4,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,1,20,4,
+R_2X5QCh6W0iqrCXI,3,4,2,3,4,2,5,3,2,5,6,2,4,6,7,4,6,5,6,3,2,1,2,2,4,5,5,1,5,2,4,5,4,3,1,2,20,4,
+R_2xAhv1aBw1jQSsv,1,2,4,5,4,2,3,4,3,5,3,5,3,4,6,4,4,6,2,5,5,3,5,4,1,4,5,2,4,2,3,2,4,3,4,1,20,5,
+R_2YJoOB7DL7Ck2u1,1,4,1,4,1,2,4,4,5,7,5,7,5,7,7,7,6,6,7,1,1,1,2,2,1,5,5,1,5,2,4,4,1,1,1,3,21,1,
+R_2YkW7i3RZeZVtlt,4,2,4,4,2,4,2,4,2,3,4,5,5,5,3,5,5,5,5,3,2,4,4,5,5,4,4,3,2,4,3,2,5,4,2,3,20,4,
+R_2yr2hHDJU7SLWec,3,4,1,2,4,3,4,2,2,3,5,5,2,6,6,7,5,7,5,3,3,2,4,1,1,3,2,3,2,4,4,3,4,2,4,1,20,4,
+R_2zJew4gUNYpoxHk,2,4,4,4,5,2,5,1,4,7,6,7,7,7,7,7,7,7,7,1,1,1,1,1,1,5,5,1,4,1,4,4,3,1,1,2,21,1,
+R_3DpT9Pc9OGLKHek,3,2,2,3,3,3,3,3,3,4,4,3,3,5,6,3,6,5,5,3,5,5,5,4,5,5,5,4,5,5,4,5,5,4,4,2,20,4,
+R_3e3Jp43Up1aDo7t,1,4,3,5,4,4,4,5,5,5,5,2,1,5,5,5,5,5,3,1,1,2,1,4,1,5,5,1,5,1,5,4,1,1,1,2,22,3,
+R_3eyuxzBroGneOip,4,3,3,5,2,2,3,5,1,2,2,3,3,3,4,3,2,4,2,6,5,7,6,6,3,1,4,5,4,2,1,1,5,5,5,1,19,5,
+R_3ffreQe5l7Sh4cM,4,1,5,5,3,5,1,5,3,2,4,4,2,3,7,4,4,6,6,6,5,1,6,5,2,2,4,1,3,3,3,2,5,4,2,2,20,5,
+R_3FPqc7unFXz0DLp,2,4,3,3,2,5,4,3,3,3,5,5,3,7,7,7,7,7,7,1,1,1,1,1,7,5,5,1,5,1,5,5,1,1,1,2,26,3,
+R_3HtVKsIVhimo6Ts,1,4,3,2,4,3,5,1,7,7,7,5,7,7,7,7,7,7,6,2,1,1,1,2,1,5,5,1,5,1,5,5,1,1,1,2,22,4,
+R_3HY6dVfwZwGmq0U,3,3,4,5,3,4,3,4,4,4,2,2,2,5,6,5,5,5,3,5,2,2,3,4,2,4,4,3,3,2,3,3,4,3,2,2,20,5,
+R_3j9xdeAf1RiUThV,1,5,1,1,5,1,5,1,6,6,7,6,5,6,7,6,7,7,7,1,1,1,1,1,1,5,5,1,4,2,5,4,1,1,1,2,25,3,
+R_3mbutP0kaFetKmt,4,2,4,4,2,4,2,5,1,1,1,3,2,6,5,5,5,4,5,5,2,2,3,5,3,4,4,2,4,1,4,2,4,1,4,3,21,5,
+R_3nUVXBG2iJWNSR9,4,4,2,5,3,4,5,2,3,4,5,5,1,6,6,6,6,6,6,2,2,3,2,3,4,4,5,1,4,3,4,4,2,3,1,2,20,4,
+R_3nvFkby7E8ForcM,4,1,3,4,3,3,3,5,3,4,4,3,2,4,6,5,3,5,5,4,1,2,4,4,2,3,2,4,3,5,2,2,5,4,5,2,19,4,
+R_3pbS0l2ddygiNTR,2,3,2,4,4,1,3,2,3,4,5,4,3,6,6,5,5,6,6,4,1,1,2,2,1,4,4,2,3,2,3,3,1,3,1,2,20,4,
+R_3QJdJtUNSwsLsCm,4,2,1,5,1,4,2,5,2,2,4,4,2,4,3,4,5,5,4,7,6,4,6,6,6,3,3,4,3,4,2,2,5,4,4,3,19,6,
+R_3QQuBtA3AyDUo8R,1,5,4,1,5,4,5,3,7,7,7,7,4,6,7,7,7,7,7,1,1,1,1,1,1,5,5,1,5,1,5,5,3,3,2,3,27,3,
+R_3rV3DqmIAXecGuD,3,3,4,5,2,3,4,4,3,5,6,3,5,4,7,5,6,6,6,5,2,4,1,4,1,4,5,2,5,1,4,4,5,4,5,2,20,5,
+R_3RyKUipDxB2xQu8,3,3,4,5,2,5,2,5,3,6,5,5,2,5,6,5,4,6,6,2,2,2,2,2,4,5,5,1,5,1,5,5,5,5,5,1,21,4,
+R_4Jv9AI6vtEVKrK1,4,4,2,4,5,4,5,2,5,5,6,6,2,5,6,5,5,4,4,5,3,6,5,5,5,5,5,2,5,1,4,4,4,4,4,2,21,5,
+R_BtVNOoA9ltYe7IZ,3,4,3,5,2,3,4,4,4,6,2,5,2,5,5,6,4,5,5,4,2,1,4,3,3,4,3,3,3,4,2,2,3,2,4,2,19,4,
+R_C4cjMJYUDsDmoW5,2,4,2,3,4,3,4,4,6,6,6,5,5,5,7,6,7,4,4,2,1,3,2,3,2,2,3,3,3,4,2,2,4,4,3,2,19,4,
+R_D0IcAbSktRRcsyR,4,2,4,5,3,4,2,4,1,2,2,3,3,5,5,4,4,5,6,5,4,5,5,4,4,4,4,4,2,4,3,2,2,4,4,2,20,5,
+R_Dc0nHKfwkOy0c9P,3,3,3,3,3,3,3,3,4,4,5,4,5,5,5,,4,4,5,4,3,3,5,5,6,4,3,4,4,4,3,3,3,2,3,2,20,4,
+R_O3fsmSpbaLBWa6R,2,2,3,5,3,2,2,5,4,4,5,5,3,5,7,6,6,6,7,1,2,1,2,2,3,5,4,1,3,2,4,4,4,2,2,2,20,1,
+R_oYbpKyCwbTFlwd3,5,2,4,5,2,4,3,4,1,3,3,1,1,4,4,4,5,4,4,5,4,4,3,4,3,4,4,2,3,3,3,2,5,4,4,2,20,5,
+R_PLDOlrqBuls4InL,3,1,4,5,3,3,3,4,4,2,5,6,6,7,7,6,7,7,7,2,1,1,1,1,1,5,5,1,3,1,4,4,2,3,3,2,20,4,
+R_PU0vnbrUIZvJihz,4,1,4,5,1,4,3,5,4,4,5,3,6,6,7,6,5,5,6,4,4,4,5,3,3,4,5,4,3,2,3,3,4,5,4,2,20,4,
+R_QojRt0kXHQyQTCx,3,3,4,5,2,5,3,5,4,2,2,4,4,6,6,4,6,6,5,4,2,2,4,2,2,4,5,2,4,3,4,3,4,4,4,2,20,5,
+R_rl5ETo3hrQD4xEJ,2,4,5,3,5,5,3,2,5,6,6,6,4,6,6,4,6,6,6,2,2,2,2,7,2,5,5,2,5,2,4,4,2,2,2,2,20,4,
+R_sOjFDEfCqLZlNVD,4,3,5,5,4,5,3,4,4,5,5,5,3,4,6,5,5,5,6,6,2,2,5,6,3,5,4,3,5,3,4,4,5,4,4,2,21,5,
+R_vlwe0HDnobeiXgR,5,3,2,5,1,5,4,5,4,5,5,5,3,5,6,5,5,6,5,5,4,3,3,3,2,4,4,4,1,4,3,4,5,5,5,2,20,5,
+R_XTiXWztScQdOTsd,2,4,2,3,5,1,5,4,2,6,3,3,2,2,6,5,5,5,5,5,2,3,6,6,2,5,5,1,4,2,4,4,3,4,4,2,20,5,
+R_YPO0WtOOnsm7vmV,1,3,5,5,2,4,3,4,4,3,5,3,4,6,7,6,7,7,6,2,1,2,2,2,2,5,5,2,5,1,4,4,2,3,3,2,20,4,
+R_ZdTuveJOSElUMvL,5,3,4,4,3,5,3,4,4,5,5,7,6,2,7,3,3,3,4,6,7,1,7,6,1,4,4,2,3,1,2,3,4,4,4,3,20,5,
+R_zfiwCFhciE4LdsJ,2,4,1,2,5,1,5,1,4,6,7,6,5,6,5,6,6,6,6,2,3,4,3,2,6,4,4,2,4,1,4,4,1,4,1,2,20,4,
+Response ID,"Here are a few statements about personal
+characteristics that may or may not apply to you. For each statement, please
+indicate the degree to which you agree that the statement applies to you. - I see myself as someone who is depressed, blue","Here are a few statements about personal
+characteristics that may or may not apply to you. For each statement, please
+indicate the degree to which you agree that the statement applies to you. - I see myself as someone who is relaxed, handles stress well","Here are a few statements about personal
+characteristics that may or may not apply to you. For each statement, please
+indicate the degree to which you agree that the statement applies to you. - I see myself as someone who can be tense","Here are a few statements about personal
+characteristics that may or may not apply to you. For each statement, please
+indicate the degree to which you agree that the statement applies to you. - I see myself as someone who worries a lot","Here are a few statements about personal
+characteristics that may or may not apply to you. For each statement, please
+indicate the degree to which you agree that the statement applies to you. - I see myself as someone who is emotionally stable, not easily upset","Here are a few statements about personal
+characteristics that may or may not apply to you. For each statement, please
+indicate the degree to which you agree that the statement applies to you. - I see myself as someone who can be moody","Here are a few statements about personal
+characteristics that may or may not apply to you. For each statement, please
+indicate the degree to which you agree that the statement applies to you. - I see myself as someone who remains calm in tense situations","Here are a few statements about personal
+characteristics that may or may not apply to you. For each statement, please
+indicate the degree to which you agree that the statement applies to you. - I see myself as someone who gets nervous easily","Below are five statements that you may agree or disagree with. Using the scale below, indicate your agreement with each item. Please be open and honest in your responding. - In most ways my life is close to my ideal.","Below are five statements that you may agree or disagree with. Using the scale below, indicate your agreement with each item. Please be open and honest in your responding. - The conditions of my life are excellent.","Below are five statements that you may agree or disagree with. Using the scale below, indicate your agreement with each item. Please be open and honest in your responding. - I am satisfied with my life.","Below are five statements that you may agree or disagree with. Using the scale below, indicate your agreement with each item. Please be open and honest in your responding. - So far I have gotten the important things I want in life.","Below are five statements that you may agree or disagree with. Using the scale below, indicate your agreement with each item. Please be open and honest in your responding. - If I could live my life over, I would change almost nothing.","Please indicate to what extent you agree or disagree with the following statements about yourself. - When am I with other people, I feel included",Please indicate to what extent you agree or disagree with the following statements about yourself. - I have close bonds with family and friends.,Please indicate to what extent you agree or disagree with the following statements about yourself. - I feel accepted by others.,Please indicate to what extent you agree or disagree with the following statements about yourself. - I have a sense of belonging.,Please indicate to what extent you agree or disagree with the following statements about yourself. - I have a place at the table with others.,Please indicate to what extent you agree or disagree with the following statements about yourself. - I feel connected with others.,Please indicate to what extent you agree or disagree with the following statements about yourself. - I feel like an outsider.,Please indicate to what extent you agree or disagree with the following statements about yourself. - I feel as if people do not care about me.,"Please indicate to what extent you agree or disagree with the following statements about yourself. - Because I do not belong, I feel distant during the holiday season.",Please indicate to what extent you agree or disagree with the following statements about yourself. - I feel isolated from the rest of the world.,"Please indicate to what extent you agree or disagree with the following statements about yourself. - When I am with other people, I feel like a stranger.",Please indicate to what extent you agree or disagree with the following statements about yourself. - Friends and family do not involve me in their plans.,"Please indicate to what degree you agree with the following statements: - I feel that I am a person of worth, at least on an equal level with others.",Please indicate to what degree you agree with the following statements: - I feel that I have a number of good qualities.,"Please indicate to what degree you agree with the following statements: - Overall, I am inclined to feel that I am a failure.",Please indicate to what degree you agree with the following statements: - I am able to do things as well as most other people.,Please indicate to what degree you agree with the following statements: - I feel I do not have much to be proud of.,Please indicate to what degree you agree with the following statements: - I have a positive attitude toward myself.,"Please indicate to what degree you agree with the following statements: - On the whole, I am satisfied with myself.",Please indicate to what degree you agree with the following statements: - I wish I could have more respect for myself.,Please indicate to what degree you agree with the following statements: - I certainly feel useless at times.,Please indicate to what degree you agree with the following statements: - At times I think I am no good at all.,Please indicate which best describes you. - Selected Choice,Please indicate your age,Please indicate which best describes you - Selected Choice,Please indicate which best describes you - Prefer to specify another - Text
